@@ -8,7 +8,7 @@ Working through a 14-month self-study program building foundations in Python, ma
 - `phase_3/` — Data structures and algorithms
 
 ## Projects
-- [ ] Number guessing game
+- [x] Number guessing game
 - [ ] Calculator
 - [ ] Traffic light state machine
 - [ ] Word counter
