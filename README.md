@@ -9,7 +9,7 @@ Working through a 14-month self-study program building foundations in Python, ma
 
 ## Projects
 - [x] Number guessing game
-- [ ] Calculator
+- [x] Calculator
 - [ ] Traffic light state machine
 - [ ] Word counter
 
